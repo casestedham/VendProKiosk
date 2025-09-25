@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580499965096",
+    "project_id": "vendpro-stack",
+    "storage_bucket": "vendpro-stack.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580499965096:android:10c673fc4aef504ce4ee9d",
+        "android_client_info": {
+          "package_name": "com.example.vendprokiosk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj-iRVkqBncGh6vbz-2HbeqwR7YZERlzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
